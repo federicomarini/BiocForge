@@ -14,3 +14,7 @@ Here, I try to document every step of the process to generate, build, check, and
 ## Contribute your own
 
 If you think it would be reasonable to add other similar packages, well documented Pull Requests are very welcome!
+
+## Contributors
+
+- [Federico Marini](https://github.com/federicomarini)
