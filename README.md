@@ -1,6 +1,6 @@
-# My personal forge of `BSgenome` objects
+# My personal forge of Bioconductor related objects
 
-This repository contains the code and the required information to generate customized `BSgenome` packages.
+This repository contains the code and the required information to generate customized Bioconductor (`BSgenome`, `EnsDb`, `TxDb`, ...) packages.
 
 Use cases: you are looking exactly for one version, and that one is not available. 
 Or you don't want to discard everything which is not in the regular chromosomes - if you used e.g. `seqlevelsStyle`
