@@ -1,0 +1,18 @@
+Package: BSgenome.Mmusculus.ENSEMBL.GRCm38
+Title: Full genome sequences for Mus Musculus (GRCm38)
+Description: Full genome sequences for Mus Musculus (Mouse) as provided by ENSEMBL (GRCm38, release 92 from ENSEMBL) and stored in Biostrings objects.
+Version: 0.1.0
+organism: Mus Musculus 
+common_name: Mouse
+provider: ENSEMBL
+provider_version: GRCh38.p6
+release_date: Jan 2012
+release_name: Genome Reference Consortium Mouse Build 38
+source_url: ftp://ftp.ensembl.org/pub/release-92/fasta/mus_musculus/dna/
+organism_biocview: Mus_musculus
+BSgenomeObjname: Mmusculus
+Author: Federico Marini
+License: Artistic-2.0
+PkgExamples: Mmusculus[["1"]]
+seqs_srcdir: /Volumes/ProjectDataMarini2/VF/_ref/ENSEMBL_release92/
+seqfile_name: Mus_musculus.GRCm38.dna.primary_assembly.2bit
